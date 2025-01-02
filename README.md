@@ -73,7 +73,7 @@ YCdirectory is a web application designed to help startup founders showcase thei
 ---
 
 ## 📷 Screenshots
-![](https://github.com/user-attachments/assets/4a21f925-e98d-4be2-b51d-e81f115260a5)
+![](https://github.com/user-attachments/assets/)
 
 1. **Home Page:**  
    Displays all the startups with their respective details.
